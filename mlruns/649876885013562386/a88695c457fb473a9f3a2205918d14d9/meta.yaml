@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/649876885013562386/a88695c457fb473a9f3a2205918d14d9/artifacts
+end_time: 1778779446598
+entry_point_name: ''
+experiment_id: '649876885013562386'
+lifecycle_stage: active
+run_id: a88695c457fb473a9f3a2205918d14d9
+run_name: bittersweet-mare-947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778779444312
+status: 3
+tags: []
+user_id: andresrodartee
