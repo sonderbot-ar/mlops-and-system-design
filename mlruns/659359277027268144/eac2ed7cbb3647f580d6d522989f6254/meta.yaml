@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/659359277027268144/eac2ed7cbb3647f580d6d522989f6254/artifacts
+end_time: 1778781091696
+entry_point_name: ''
+experiment_id: '659359277027268144'
+lifecycle_stage: active
+run_id: eac2ed7cbb3647f580d6d522989f6254
+run_name: brawny-trout-365
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778781089490
+status: 3
+tags: []
+user_id: andresrodartee

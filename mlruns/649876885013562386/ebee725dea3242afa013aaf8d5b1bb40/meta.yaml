@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/649876885013562386/ebee725dea3242afa013aaf8d5b1bb40/artifacts
+end_time: 1778780910990
+entry_point_name: ''
+experiment_id: '649876885013562386'
+lifecycle_stage: active
+run_id: ebee725dea3242afa013aaf8d5b1bb40
+run_name: unruly-hound-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778780908684
+status: 3
+tags: []
+user_id: andresrodartee

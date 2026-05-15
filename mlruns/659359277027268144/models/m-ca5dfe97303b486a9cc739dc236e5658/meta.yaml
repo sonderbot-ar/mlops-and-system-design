@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/659359277027268144/models/m-ca5dfe97303b486a9cc739dc236e5658/artifacts
+creation_timestamp: 1778781089614
+experiment_id: '659359277027268144'
+last_updated_timestamp: 1778781091657
+model_id: m-ca5dfe97303b486a9cc739dc236e5658
+model_type: ''
+name: bank_model
+source_run_id: eac2ed7cbb3647f580d6d522989f6254
+status: 2
+status_message: null

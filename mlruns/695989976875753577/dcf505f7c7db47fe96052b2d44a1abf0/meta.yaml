@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/695989976875753577/dcf505f7c7db47fe96052b2d44a1abf0/artifacts
+end_time: 1778852062516
+entry_point_name: ''
+experiment_id: '695989976875753577'
+lifecycle_stage: active
+run_id: dcf505f7c7db47fe96052b2d44a1abf0
+run_name: resilient-stoat-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778852060492
+status: 3
+tags: []
+user_id: andresrodartee
