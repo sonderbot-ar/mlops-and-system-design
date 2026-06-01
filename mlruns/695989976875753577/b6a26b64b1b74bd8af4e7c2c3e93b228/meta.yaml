@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/695989976875753577/b6a26b64b1b74bd8af4e7c2c3e93b228/artifacts
+end_time: 1780335820892
+entry_point_name: ''
+experiment_id: '695989976875753577'
+lifecycle_stage: active
+run_id: b6a26b64b1b74bd8af4e7c2c3e93b228
+run_name: entertaining-cow-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780335818958
+status: 3
+tags: []
+user_id: andresrodartee

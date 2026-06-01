@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/695989976875753577/cd82ad44aca54d0bbc24f96d86614f07/artifacts
+end_time: 1780333198582
+entry_point_name: ''
+experiment_id: '695989976875753577'
+lifecycle_stage: active
+run_id: cd82ad44aca54d0bbc24f96d86614f07
+run_name: fortunate-eel-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780333196225
+status: 3
+tags: []
+user_id: andresrodartee

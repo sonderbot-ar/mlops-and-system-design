@@ -1,0 +1,37 @@
+artifact_path: mlflow-artifacts:/695989976875753577/models/m-71b95e9d43e74db78dede7deb8261539/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.12.0
+model_id: m-71b95e9d43e74db78dede7deb8261539
+model_size_bytes: 5954
+model_uuid: m-71b95e9d43e74db78dede7deb8261539
+prompts: null
+run_id: b6a26b64b1b74bd8af4e7c2c3e93b228
+signature:
+  inputs: '[{"type": "long", "name": "CreditScore", "required": true}, {"type": "long",
+    "name": "Gender", "required": true}, {"type": "double", "name": "Age", "required":
+    true}, {"type": "long", "name": "Tenure", "required": true}, {"type": "double",
+    "name": "Balance", "required": true}, {"type": "long", "name": "NumOfProducts",
+    "required": true}, {"type": "double", "name": "HasCrCard", "required": true},
+    {"type": "double", "name": "IsActiveMember", "required": true}, {"type": "double",
+    "name": "EstimatedSalary", "required": true}, {"type": "double", "name": "Geography_Germany",
+    "required": true}, {"type": "double", "name": "Geography_Spain", "required": true},
+    {"type": "long", "name": "IsZeroBalance", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-06-01 17:43:39.067707'

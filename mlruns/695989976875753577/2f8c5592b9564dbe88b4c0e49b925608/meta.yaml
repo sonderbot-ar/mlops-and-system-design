@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/695989976875753577/2f8c5592b9564dbe88b4c0e49b925608/artifacts
+end_time: 1779631221595
+entry_point_name: ''
+experiment_id: '695989976875753577'
+lifecycle_stage: active
+run_id: 2f8c5592b9564dbe88b4c0e49b925608
+run_name: skittish-croc-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779631213166
+status: 3
+tags: []
+user_id: andresrodartee

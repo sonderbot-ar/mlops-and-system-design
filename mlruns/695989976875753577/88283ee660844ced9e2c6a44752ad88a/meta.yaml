@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/695989976875753577/88283ee660844ced9e2c6a44752ad88a/artifacts
+end_time: 1780335728410
+entry_point_name: ''
+experiment_id: '695989976875753577'
+lifecycle_stage: active
+run_id: 88283ee660844ced9e2c6a44752ad88a
+run_name: loud-fox-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780335726423
+status: 3
+tags: []
+user_id: andresrodartee

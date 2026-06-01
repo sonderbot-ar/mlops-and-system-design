@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/695989976875753577/models/m-f2f06f747ee64a598ce3f4497e8cf890/artifacts
+creation_timestamp: 1780335726494
+experiment_id: '695989976875753577'
+last_updated_timestamp: 1780335728359
+model_id: m-f2f06f747ee64a598ce3f4497e8cf890
+model_type: ''
+name: churn_model
+source_run_id: 88283ee660844ced9e2c6a44752ad88a
+status: 2
+status_message: null
